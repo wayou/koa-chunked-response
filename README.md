@@ -20,3 +20,12 @@ $ node server.js
 
 then visit [http://localhost:3000/](http://localhost:3000/)
 
+or from the command line, run:
+
+```sh
+curl -N http://localhost:3000
+```
+
+![](https://user-images.githubusercontent.com/3783096/59296769-51c1bb00-8cb9-11e9-9c6b-78768ea68f36.gif)
+
+
